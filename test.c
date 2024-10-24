@@ -6,6 +6,7 @@ int main(int argc, char *argv[]){
 		printf("zy");
 	}
 	printf("hello git");
+	int zzzz = 10;
 	return 0;
 }
 
